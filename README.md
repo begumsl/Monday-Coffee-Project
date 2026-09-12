@@ -43,7 +43,7 @@ Identify top 3 cities based on highest sales, return city name, total sales, tot
 After analyzing the data, the recommended top three cities for new store openings are:
 
 **City 1) Delhi**
-1. Highest estimated coffee consumers, 7.75 million.
+1. Highest estimated coffee consumers, 7.75 m.
 2. Second highest total number of customers, which is 68.
 3. Average rent per customer is 330.
 
